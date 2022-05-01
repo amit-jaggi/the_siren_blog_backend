@@ -21,7 +21,7 @@ const database = [
         body : `Karnataka is primarily known for its Heritage destinations and its Wildlife/ National Parks. Apart from that, it is also famous for its magical hill stations and spectacular waterfalls.`,
         category : 'Tourism',
         date : `January 2, 2022`,
-        url : 'https://s3.india.com/travel/wp-content/uploads/2018/03/Karnataka-photo-21.jpg'
+        url : 'https://www.karnatakatourism.org/wp-content/uploads/2021/01/india-national-tourism-day.jpg'
     },
     {
         id : '4',
@@ -29,7 +29,7 @@ const database = [
         body : `A part of the Eastern Himalaya, Sikkim is notable for its biodiversity, including alpine and subtropical climates, as well as being a host to Kangchenjunga, the highest peak in India and third highest on Earth.`,
         category : 'Tourism',
         date : `March 14, 2022`,
-        url : 'https://assets.sentinelassam.com/h-upload/2021/06/20/1600x960_235747-sikkim.jpg'
+        url : 'https://www.adotrip.com/public/images/areas/master_images/5c3f0a99aa3ec-Tashiding_Monastery_Attractions.jpg'
     },
     {
         id : '5',
